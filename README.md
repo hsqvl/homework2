@@ -9,6 +9,6 @@
 2) Запустить env: перейти в папку с env → scripts → activate;
 3) Обновить pip: pip install -U pip;
 4) Установить библиотеки: pip install -r requirements.txt;
-5) Проверить установку putest: pytest.
+5) Проверить установку pytest: pytest.
 
 Запуск автотестов: pytest tests -s
